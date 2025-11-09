@@ -1,1 +1,2 @@
 # Assignment-NoSql
+MongoDB Querys
